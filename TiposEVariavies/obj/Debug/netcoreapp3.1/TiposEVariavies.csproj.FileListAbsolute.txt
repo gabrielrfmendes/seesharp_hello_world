@@ -1,0 +1,13 @@
+C:\Users\Gabriel\Desktop\HelloWorld\TiposEVariavies\bin\Debug\netcoreapp3.1\TiposEVariavies.exe
+C:\Users\Gabriel\Desktop\HelloWorld\TiposEVariavies\bin\Debug\netcoreapp3.1\TiposEVariavies.deps.json
+C:\Users\Gabriel\Desktop\HelloWorld\TiposEVariavies\bin\Debug\netcoreapp3.1\TiposEVariavies.runtimeconfig.json
+C:\Users\Gabriel\Desktop\HelloWorld\TiposEVariavies\bin\Debug\netcoreapp3.1\TiposEVariavies.runtimeconfig.dev.json
+C:\Users\Gabriel\Desktop\HelloWorld\TiposEVariavies\bin\Debug\netcoreapp3.1\TiposEVariavies.dll
+C:\Users\Gabriel\Desktop\HelloWorld\TiposEVariavies\bin\Debug\netcoreapp3.1\TiposEVariavies.pdb
+C:\Users\Gabriel\Desktop\HelloWorld\TiposEVariavies\obj\Debug\netcoreapp3.1\TiposEVariavies.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\HelloWorld\TiposEVariavies\obj\Debug\netcoreapp3.1\TiposEVariavies.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\HelloWorld\TiposEVariavies\obj\Debug\netcoreapp3.1\TiposEVariavies.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\HelloWorld\TiposEVariavies\obj\Debug\netcoreapp3.1\TiposEVariavies.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\HelloWorld\TiposEVariavies\obj\Debug\netcoreapp3.1\TiposEVariavies.dll
+C:\Users\Gabriel\Desktop\HelloWorld\TiposEVariavies\obj\Debug\netcoreapp3.1\TiposEVariavies.pdb
+C:\Users\Gabriel\Desktop\HelloWorld\TiposEVariavies\obj\Debug\netcoreapp3.1\TiposEVariavies.genruntimeconfig.cache
