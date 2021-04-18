@@ -1,0 +1,13 @@
+C:\Users\Gabriel\Desktop\HelloWorld\Laços\bin\Debug\netcoreapp3.1\Laços.exe
+C:\Users\Gabriel\Desktop\HelloWorld\Laços\bin\Debug\netcoreapp3.1\Laços.deps.json
+C:\Users\Gabriel\Desktop\HelloWorld\Laços\bin\Debug\netcoreapp3.1\Laços.runtimeconfig.json
+C:\Users\Gabriel\Desktop\HelloWorld\Laços\bin\Debug\netcoreapp3.1\Laços.runtimeconfig.dev.json
+C:\Users\Gabriel\Desktop\HelloWorld\Laços\bin\Debug\netcoreapp3.1\Laços.dll
+C:\Users\Gabriel\Desktop\HelloWorld\Laços\bin\Debug\netcoreapp3.1\Laços.pdb
+C:\Users\Gabriel\Desktop\HelloWorld\Laços\obj\Debug\netcoreapp3.1\Laços.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\HelloWorld\Laços\obj\Debug\netcoreapp3.1\Laços.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\HelloWorld\Laços\obj\Debug\netcoreapp3.1\Laços.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\HelloWorld\Laços\obj\Debug\netcoreapp3.1\Laços.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\HelloWorld\Laços\obj\Debug\netcoreapp3.1\Laços.dll
+C:\Users\Gabriel\Desktop\HelloWorld\Laços\obj\Debug\netcoreapp3.1\Laços.pdb
+C:\Users\Gabriel\Desktop\HelloWorld\Laços\obj\Debug\netcoreapp3.1\Laços.genruntimeconfig.cache

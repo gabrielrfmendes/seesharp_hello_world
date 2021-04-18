@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{BF3DB103-8528-45DC-B272-D9F73A4E1A62}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiposEVariavies", "TiposEVariavies\TiposEVariavies.csproj", "{5512D8DC-E192-4FA8-82F6-55AE2F80B4A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TiposEVariavies", "TiposEVariavies\TiposEVariavies.csproj", "{5512D8DC-E192-4FA8-82F6-55AE2F80B4A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laços", "Laços\Laços.csproj", "{247FA738-EF1F-4C69-848D-F58299F14589}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{5512D8DC-E192-4FA8-82F6-55AE2F80B4A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5512D8DC-E192-4FA8-82F6-55AE2F80B4A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5512D8DC-E192-4FA8-82F6-55AE2F80B4A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{247FA738-EF1F-4C69-848D-F58299F14589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{247FA738-EF1F-4C69-848D-F58299F14589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{247FA738-EF1F-4C69-848D-F58299F14589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{247FA738-EF1F-4C69-848D-F58299F14589}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
