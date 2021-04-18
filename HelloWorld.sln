@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TiposEVariavies", "TiposEVa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laços", "Laços\Laços.csproj", "{247FA738-EF1F-4C69-848D-F58299F14589}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaçosCondicionais", "LaçosCondicionais\LaçosCondicionais.csproj", "{8006FB7E-A535-457B-9161-3560D52DAFAC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{247FA738-EF1F-4C69-848D-F58299F14589}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{247FA738-EF1F-4C69-848D-F58299F14589}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{247FA738-EF1F-4C69-848D-F58299F14589}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8006FB7E-A535-457B-9161-3560D52DAFAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8006FB7E-A535-457B-9161-3560D52DAFAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8006FB7E-A535-457B-9161-3560D52DAFAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8006FB7E-A535-457B-9161-3560D52DAFAC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
